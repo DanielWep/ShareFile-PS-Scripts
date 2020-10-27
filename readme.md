@@ -29,3 +29,5 @@ SF-UpdateUserRoles.ps1 -sfAdminMail “admin@domain.com”
 ```
 
 #
+Cheers,
+[Daniel Weppeler](https://danielweppeler.de)
